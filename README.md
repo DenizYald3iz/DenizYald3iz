@@ -1,16 +1,30 @@
-### Hi there 👋
+# Merhaba, Ben Deniz Yaldız 👋
 
-<!--
-**DenizYald3iz/DenizYald3iz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/DenizYald3iz?style=social)](https://twitter.com/DenizYald3iz)
+[![GitHub followers](https://img.shields.io/github/followers/DenizYald3iz?label=Follow&style=social)](https://github.com/DenizYald3iz)
+[![Linkedin: denizyaldiz](https://img.shields.io/badge/-denizyaldiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denizyaldiz/)](https://www.linkedin.com/in/denizyaldiz/)
+![Profile views](https://komarev.com/ghpvc/?username=DenizYald3iz)
 
-Here are some ideas to get you started:
+## Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Bilgisayar Mühendisliği öğrencisiyim ve yapay zeka, derin öğrenme, nesne tanıma ve sınıflandırma modelleri gibi alanlara ilgi duyuyorum.
+- 🌐 Web tasarımı konusunda da deneyim sahibiyim ve HTML/CSS kullanarak modern web siteleri oluşturuyorum.
+- 💻 NVIDIA Omniverse ile 3D tasarım ve simülasyon konularına ilgi duyuyorum.
+- 📚 Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum.
+
+## Proje Örnekleri
+
+- 🤖 [Yapay Zeka Projeleri](https://github.com/DenizYald3iz/AI-Projects): Derin öğrenme ve nesne tanıma projelerini içerir.
+- 🌐 [Web Tasarım Projeleri](https://github.com/DenizYald3iz/Web-Design-Projects): HTML/CSS kullanarak oluşturduğum web sitelerini içerir.
+- 🚀 [NVIDIA Omniverse Projeleri](https://github.com/DenizYald3iz/Omniverse-Projects): NVIDIA Omniverse ile ilgili projeleri içerir.
+
+## İletişim
+
+- Twitter: [@DenizYald3iz](https://twitter.com/DenizYald3iz)
+- LinkedIn: [denizyaldiz](https://www.linkedin.com/in/denizyaldiz/)
+- E-posta: [deniz.yaldiz@email.com]
+
+## Lisans
+
+Bu README şablonu [buradan](https://github.com/DenizYald3iz/Modern-README-Template) alınmıştır. Kendi projelerinizde kullanabilirsiniz.
+

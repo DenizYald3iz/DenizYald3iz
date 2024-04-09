@@ -15,10 +15,7 @@
 ## Proje Örnekleri
 
 - 🤖 [Yapay Zeka Projeleri](https://github.com/DenizYald3iz/AI-Projects): Derin öğrenme ve nesne tanıma projelerini içerir.
-  -
-  -
-  -
-
+ 
 - 🚀 [NVIDIA Omniverse Projeleri](https://github.com/DenizYald3iz/Omniverse-Projects): NVIDIA Omniverse ile ilgili projeleri içerir.
 
 ## İletişim 📞

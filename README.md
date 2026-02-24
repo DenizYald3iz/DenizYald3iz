@@ -28,6 +28,16 @@ Building scalable solutions at the intersection of AI, security, and systems.
 ---
 
 ## Projects
+**AI-Assisted CV ↔ Job Matching (Transformers, Retrieval, XAI)**  
+- Built a matching pipeline for CVs and job posts using hybrid retrieval + ranking  
+- Used embedding-based retrieval with reranking (bi-encoder + cross-encoder style flow)  
+- Added an explainability layer to surface why a match was recommended (XAI / rationale)
+
+**Request / Ticket Support System (Fullstack)**  
+- Implemented a request tracking system with role-based access and status workflows  
+- Designed CRUD flows for tickets, comments, assignments, and audit history  
+- Focused on clean API design, database consistency, and practical UX for internal teams
+
 **VulBERT — Vulnerability Detection (Transformers / BERT)**  
 - Fine-tuned a BERT-based model to detect code vulnerabilities  
 - Matched findings with CWE IDs and generated structured reports
@@ -69,7 +79,7 @@ Building scalable solutions at the intersection of AI, security, and systems.
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### LLM / Retrieval
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge&logo=graphql&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-111111?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Chroma](https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge&logo=databricks&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-111111?style=for-the-badge&logo=meta&logoColor=white)
@@ -93,8 +103,6 @@ Building scalable solutions at the intersection of AI, security, and systems.
 ---
 
 ## GitHub Stats
-
-
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=DenizYald3iz&theme=github_dark&hide_border=true)
 ![Stats](https://github-readme-stats.vercel.app/api?username=DenizYald3iz&show_icons=true&hide_border=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenizYald3iz&layout=compact&hide_border=true&theme=github_dark)

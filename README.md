@@ -1,79 +1,100 @@
-<h1 align="center">Deniz Yaldız</h1>
+# Deniz Yaldız
 
-<p align="center">
-  Computer Engineering (Senior) · Gazi University · Expected Graduation: June 2026
-</p>
-
-<p align="center">
-  I build applied AI systems across Deep Learning, LLM integration (RAG/agents), and developer-focused tooling.
-  Recently: security ML (VulBERT), autonomous Text-to-SQL agent, and prosody-aware TTS research.
-</p>
+Computer Engineering (Senior), Gazi University — Expected Graduation: June 2026  
+Deep Learning · Robotics · Network Systems · LLM Integration (RAG / Agents)  
+Building scalable solutions at the intersection of AI, security, and systems.
 
 ---
 
 ## Socials
-- LinkedIn: www.linkedin.com/in/deniz-yaldiz03/  
-- Website / Blog: https://denizyaldiz.com.tr/  
-- GitHub: https://github.com/DenizYald3iz  
-- Email: denizyaldiz2003@gmail.com  :contentReference[oaicite:1]{index=1}
-
----
-
-## Focus Areas
-- Deep Learning (PyTorch / TensorFlow) and applied research prototypes :contentReference[oaicite:2]{index=2}
-- LLM integration: RAG, self-correction loops, agentic workflows (LangGraph) :contentReference[oaicite:3]{index=3}
-- Linux-based server management + fullstack delivery (React / FastAPI) :contentReference[oaicite:4]{index=4}
-- AI × Security × Robotics intersections (scalable, systems-first approach) :contentReference[oaicite:5]{index=5}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-yaldiz03/)
+[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://denizyaldiz.com.tr/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denizyaldiz2003@gmail.com)
+[![Prosodify](https://img.shields.io/badge/Prosodify-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://prosodify.denizyaldiz.me/)
 
 ---
 
 ## Experience
-**BITES Defence & Aerospace (Ankara) — XR / AR Intern (Jul–Aug 2025)**  
-- Built HoloLens AR apps using Unity + C#  
+**BITES Defence & Aerospace (Ankara) — XR / AR Intern** (Jul–Aug 2025)  
+- Built HoloLens AR apps with Unity and C#  
 - Worked with MRTK for hand tracking and interactive UI  
-- Investigated computer vision pipelines with Python + OpenCV for simulation integration  :contentReference[oaicite:6]{index=6}
+- Investigated CV pipelines with Python + OpenCV for simulation integration
 
-**Crypttech Cyber Security (Ankara) — Cyber Security Engineering Intern (Jul–Aug 2024)**  
-- Analyzed enterprise log management integrations (rsyslog & related)  
-- Built AWS-based secure remote access (OpenVPN) on Linux server architecture  
-- Observed incident response and troubleshooting methodologies in customer support flows  :contentReference[oaicite:7]{index=7}
+**Crypttech Cyber Security (Ankara) — Cyber Security Engineering Intern** (Jul–Aug 2024)  
+- Analyzed enterprise log management integrations (rsyslog and related)  
+- Set up AWS-based secure remote access (OpenVPN) on Linux servers  
+- Observed incident response and troubleshooting workflows in customer support
 
 ---
 
-## Featured Projects
-**VulBERT — AI-based vulnerability detection (Python, Transformers, BERT)**  
-- Fine-tuned a BERT-family model for vulnerability detection  
-- Mapped detected issues to CWE IDs and generated structured reports :contentReference[oaicite:8]{index=8}
+## Projects
+**VulBERT — Vulnerability Detection (Transformers / BERT)**  
+- Fine-tuned a BERT-based model to detect code vulnerabilities  
+- Matched findings with CWE IDs and generated structured reports
 
 **Text-to-SQL Autonomous Agent (LangGraph, LLM, ChromaDB, SQL)**  
-- Designed an autonomous agent that turns natural language into SQL  
-- Improved DB interaction with RAG + self-correction mechanisms :contentReference[oaicite:9]{index=9}
+- Designed an autonomous agent that converts natural language into SQL  
+- Used RAG + self-correction loops to improve DB interaction quality
 
-**Prosodify — Prosody-aware TTS (PyTorch, Deep Learning, LLM)**  
-- Predicted prosody (stress/intonation) via LLM signals to improve naturalness  
-- Project page: https://prosodify.denizyaldiz.me/ :contentReference[oaicite:10]{index=10}
+**Prosodify — Prosody-Aware TTS (PyTorch, Deep Learning, LLM)**  
+- Predicted prosody (stress / intonation) using LLM signals  
+- Optimized synthesis pipeline for more natural speech  
+- https://prosodify.denizyaldiz.me/
 
-**Antidrift VR — Open-source tracking solution (C++, Python, VR)**  
-- Worked on outside-in tracking approach to reduce drift  
-- Repo: https://github.com/xr-internship-team/hsomp-holographic-visualizer :contentReference[oaicite:11]{index=11}
+**Antidrift VR — Open-Source Tracking**  
+- Contributed to an outside-in tracking approach to reduce drift  
+- Built algorithms for sensor processing and holographic visualization  
+- https://github.com/xr-internship-team/hsomp-holographic-visualizer
 
-**Self-Hosted Cloud & DevOps (Linux, Docker, Tailscale, Cloudflare)**  
-- Deployed React + FastAPI projects on a personal home-lab  
-- Managed secure networking and tunneling for orchestration :contentReference[oaicite:12]{index=12}
+**Self-Hosted Cloud & DevOps (Home-lab)**  
+- Deployed React + FastAPI projects on personal infrastructure  
+- Used Tailscale and Cloudflare tunnels for secure networking/orchestration
 
 ---
 
 ## Tech Stack
-**Languages:** Python · C/C++ · SQL · C# · Java (basic) :contentReference[oaicite:13]{index=13}  
-**AI/DS:** PyTorch · TensorFlow · Transformers/LLM integration (RAG) · OpenCV · Pandas · NumPy :contentReference[oaicite:14]{index=14}  
-**Web/Backend:** FastAPI · React · Next.js · Spring Boot · REST APIs :contentReference[oaicite:15]{index=15}  
-**DevOps/Tools:** Linux (Bash) · Docker · Git/GitHub · AWS (EC2) · MySQL · MongoDB · Vector DBs (Chroma/FAISS) :contentReference[oaicite:16]{index=16}
+### Languages
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### AI / Data
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white)
+
+### LLM / Retrieval
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-111111?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Chroma](https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge&logo=databricks&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-111111?style=for-the-badge&logo=meta&logoColor=white)
+
+### Web / Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111111?style=for-the-badge&logo=springboot&logoColor=white)
+![REST](https://img.shields.io/badge/REST-111111?style=for-the-badge&logo=postman&logoColor=white)
+
+### DevOps / Tools
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20EC2-111111?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## GitHub Stats
-<!-- Replace USERNAME if needed -->
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DenizYald3iz&show_icons=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenizYald3iz&layout=compact" />
-</p>
+> If these cards do not render on your profile, try switching the theme or removing one of them.
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=DenizYald3iz&theme=github_dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=DenizYald3iz&show_icons=true&hide_border=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenizYald3iz&layout=compact&hide_border=true&theme=github_dark)

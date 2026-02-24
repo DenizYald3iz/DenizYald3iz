@@ -93,7 +93,7 @@ Building scalable solutions at the intersection of AI, security, and systems.
 ---
 
 ## GitHub Stats
-> If these cards do not render on your profile, try switching the theme or removing one of them.
+
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=DenizYald3iz&theme=github_dark&hide_border=true)
 ![Stats](https://github-readme-stats.vercel.app/api?username=DenizYald3iz&show_icons=true&hide_border=true&theme=github_dark)

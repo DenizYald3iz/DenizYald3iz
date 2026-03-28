@@ -1,7 +1,7 @@
 # Deniz Yaldız
 
 Computer Engineering (Senior), Gazi University — Expected Graduation: June 2026  
-Deep Learning · Robotics · Network Systems · LLM Integration (RAG / Agents)  
+Deep Learning · Network Systems · LLM Integration (RAG / Agents)  
 Building scalable solutions at the intersection of AI, security, and systems.
 
 ---
